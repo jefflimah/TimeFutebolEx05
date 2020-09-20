@@ -1,0 +1,20 @@
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\bin\Debug\netcoreapp3.1\Exemplo 3.exe
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\bin\Debug\netcoreapp3.1\Exemplo 3.deps.json
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\bin\Debug\netcoreapp3.1\Exemplo 3.runtimeconfig.json
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\bin\Debug\netcoreapp3.1\Exemplo 3.runtimeconfig.dev.json
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\bin\Debug\netcoreapp3.1\Exemplo 3.dll
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\bin\Debug\netcoreapp3.1\Exemplo 3.pdb
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\Exemplo 3.csprojAssemblyReference.cache
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\Exemplo 3.AssemblyInfoInputs.cache
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\Exemplo 3.AssemblyInfo.cs
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\Exemplo 3.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\Exemplo 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\Exemplo 3.RazorTargetAssemblyInfo.cache
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\staticwebassets\Exemplo 3.StaticWebAssets.Manifest.cache
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\staticwebassets\Exemplo 3.StaticWebAssets.xml
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\Exemplo 3.dll
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\Exemplo 3.pdb
+C:\Users\Jeff\Desktop\Exemplo 3\Exemplo 3\obj\Debug\netcoreapp3.1\Exemplo 3.genruntimeconfig.cache
